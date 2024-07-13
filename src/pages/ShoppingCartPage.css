@@ -1,0 +1,26 @@
+.shopping-cart-page {
+  padding: 20px;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.cart-item img {
+  max-width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.cart-item button {
+  margin-left: 10px;
+}
