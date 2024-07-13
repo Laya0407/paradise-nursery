@@ -1,0 +1,19 @@
+.landing-page {
+  background-image: url('path-to-your-background-image.jpg');
+  background-size: cover;
+  text-align: center;
+  padding: 50px;
+}
+
+.get-started-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.get-started-btn:hover {
+  background-color: #45a049;
+}
